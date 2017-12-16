@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <include layout="@layout/biaoti_layout"/>
+    <View
+        android:background="@color/heiye"
+        android:layout_width="fill_parent"
+        android:id="@+id/v12"
+        android:layout_below="@+id/lne2"
+        android:layout_marginTop="0dp"
+        android:layout_height="1.0dip" />
+    <com.bn.test.model.SelfGirdView
+        android:id="@+id/gview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_below="@+id/center"
+        android:background="@color/white"
+        android:numColumns="4"
+        android:layout_margin="15dp"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="20dp"
+        android:horizontalSpacing="10dp"
+        android:cacheColorHint="#00000000"
+        android:listSelector="#00000000"
+        android:scrollbars="none"
+        android:fadeScrollbars="true"
+        android:fastScrollEnabled="true"
+        android:fadingEdge="none"
+        android:fadingEdgeLength="10dip"
+        android:drawSelectorOnTop="false"
+        android:layout_marginBottom="40dp"
+        >
+    </com.bn.test.model.SelfGirdView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/up_sharpe"
+            android:text="错题本"
+            android:layout_gravity="center"
+            android:id="@+id/cuoti"
+            android:textColor="@color/colorPrimaryGreen"
+            android:gravity="center"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="40dp"
+            android:background="@drawable/jiakao_huise_line_shu"
+            />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="收藏本"
+            android:layout_gravity="center"
+            android:id="@+id/quanbu_jiexi"
+            android:textColor="@color/colorPrimaryGreen"
+            android:background="@drawable/up_sharpe"
+            android:gravity="center"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="0"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:background="@drawable/jiakao_huise_line_heng"
+            />
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/kaishi"
+            android:background="@color/heiye"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            >
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:text="继续答题"
+                android:layout_gravity="bottom"
+                android:background="@color/heiye"
+                android:textColor="@color/colorPrimaryGreen"
+                android:textSize="20dp"
+                android:id="@+id/jixu" />
+        </LinearLayout>
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+
+            />
+    </LinearLayout>
+
+</LinearLayout>
