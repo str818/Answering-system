@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_0c4021caec05731171ec886c2ad50c86e4b73726\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.0\25eb440d6eeb9fc60299121020fe726eb2100d03\kotlin-stdlib-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25eb440d6eeb9fc60299121020fe726eb2100d03">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.2.0_aab71ed5d57f06f1c46b1f9252104cce5d51f281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\libs\jxl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\2\jxl_9e48ab31cc3ce9258669936e07049142bc9b33a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47935035eebfac1e3ef61729352bd0658d25865e">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3129d2f91096630dff8c33ec46e0c871c5c7cae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_1991cce01e3335082c96f11ba3e44372396249ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_3ce7adf476b666dc8efdaabe9e58ca13aa4d7d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.2.0\ec8b969e26fbcf2265a4d1a1539c4d1d4c5af380\kotlin-stdlib-jre7-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec8b969e26fbcf2265a4d1a1539c4d1d4c5af380">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.2.0_f1e3838270e9efd44d1b56e8c6e324c832838fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7070e20f9efdd6a15572ffa2a43a10010cf797af">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7d761d253de0a482f52c1262ac1260b840b1d54d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_0f8ff558dd0f9a55d61e30f16a9e1e7036d08470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_7e7f8a98aaab0b4ae4dca92bf1ec69332e6ef192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_6c95ab081c039c7d3e0831c8f0417f551e87389a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_6ea459bd1ddebc7ce5c4d726b4f040e6d7b9bfc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_60c7afde4f91282e60bffd09c0f331e65b850bc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\Desktop\Test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_aac5582ee9c7f9a102af8564832aaa4ba0b352d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JD\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="C:\Users\JD\Desktop\Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_8c7015d78a773345bc7353f46970bfee67c8b790\classes.dex" />
+    </item>
+
+</items>

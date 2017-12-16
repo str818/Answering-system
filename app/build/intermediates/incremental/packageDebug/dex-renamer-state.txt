@@ -1,0 +1,7 @@
+#Sat Dec 16 19:16:51 CST 2017
+base.0=C\:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3129d2f91096630dff8c33ec46e0c871c5c7cae4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7d761d253de0a482f52c1262ac1260b840b1d54d\\classes.dex
+base.1=C\:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7d761d253de0a482f52c1262ac1260b840b1d54d
+file.0=C\:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3129d2f91096630dff8c33ec46e0c871c5c7cae4\\classes.dex

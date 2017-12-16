@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chakan.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\chakan.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\down.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zbj.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\zbj.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\next.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sxx.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\sxx.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\backw.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\backw.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chakan_p.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\chakan_p.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pre.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\pre.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pre_p.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\pre_p.png"
+    },
+    {
+        "merged": "C:\\Users\\JD\\Desktop\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\next_p.png",
+        "source": "C:\\Users\\JD\\Desktop\\Test\\app\\src\\main\\res\\drawable-xxhdpi\\next_p.png"
+    }
+]
